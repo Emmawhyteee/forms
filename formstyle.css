@@ -1,0 +1,29 @@
+#HOD h1{
+    align-content: center;
+    display: flex;
+    justify-content: space-around;
+    color: goldenrod;
+}
+
+.space{
+    background-color: goldenrod;
+}
+
+.button{
+    border: none;
+    color: rgb(24, 29, 34);
+    padding: 5px 10px;
+    font-size: 14px;
+    border-radius: 15px;
+    background-color: gold;
+}
+
+.final{
+background-color: gold;
+border-radius: 6px;
+}
+
+.final:hover{
+background-color: green;
+color: white;
+}
